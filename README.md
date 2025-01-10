@@ -1,4 +1,4 @@
-Kwaliteiten Waar kan ik goed
+#Kwaliteiten Wat kan ik goed
 
 #Motieven Waar sta en ga ik voor
 
