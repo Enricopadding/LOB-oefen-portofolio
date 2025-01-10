@@ -1,9 +1,9 @@
-1. Waar ben ik goed in
+Kwaliteiten Waar kan ik goed
 
-2. Waar sta en ga ik voor
+#Motieven Waar sta en ga ik voor
 
-3. Hoe bereik ik mijn doel
+#Werk Waar ben ik het best op mijn plek
 
-4. Wie kan mij helpen om mijn doel te bereiken
+#Loopbaan Hoe bereik ik mijn doel
 
-5. 
+#Netwerken Wie kan mij helpen mijn doel te bereiken
